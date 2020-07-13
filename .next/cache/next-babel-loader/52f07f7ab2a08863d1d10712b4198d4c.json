@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\nexport default class extends Component {\n  render() {\n    const {\n      channels\n    } = this.props;\n    return __jsx(\"div\", null, __jsx(\"h1\", null, \"Helli sue, this is the new channel page!\"));\n  }\n\n}\n;","map":null,"metadata":{},"sourceType":"module"}
